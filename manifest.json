@@ -1,0 +1,14 @@
+{
+  "name": "Testing Progressive Web App",
+  "short_name": "PWA Test",
+  "description": "Progressive Web App test install",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen"
+}
